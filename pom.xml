@@ -8,6 +8,7 @@
     <groupId>com.weison</groupId>
     <artifactId>spring-boot-cache</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <url>https://github.com/WeisonWei/spring-boot-cache.git</url>
 
     <modules>
